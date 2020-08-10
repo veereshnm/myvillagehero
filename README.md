@@ -1,1 +1,3 @@
 # myvillagehero
+
+This is my first website which I will be developing using react.js. www.myvillagehero.com portal attempts to discover and upbring the hidden talents in Indian Villages. Most village students who are good at studies show less interests to stay in village after the studies. No compains! but its natural to attract to urban style of life. But what they do not realize is, if they use their talents in right way by staying in the same village they grow, they can one day become not only rich and also can upbring the village in whatever way they can think of. This website serves the purpose of inspiring such talents to lay the plan for thier endeveours to make their village a place to visit, stay and talk about in every house holds.
